@@ -52,5 +52,6 @@
   </style>
 </head>
 	<body>
+		<?php ?>
 	</body>
 </html>
