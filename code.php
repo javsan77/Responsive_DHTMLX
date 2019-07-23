@@ -51,4 +51,7 @@
 		/** RESP **/
   
   </style>
-</head>  
+</head>
+	<body>
+	</body>
+</html>
